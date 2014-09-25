@@ -9,3 +9,14 @@ Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigatio
 Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.csproj.GenerateResource.Cache
 Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.exe
 Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.pdb
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\bin\Debug\StepNavigationWizard.exe.config
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.exe
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.pdb
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\bin\Debug\Steps.xml
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\bin\Debug\StepNavigationWizard.exe
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\bin\Debug\StepNavigationWizard.pdb
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.csprojResolveAssemblyReference.cache
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.Home.resources
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.Properties.Resources.resources
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.StepFormBase.resources
+Z:\GIT\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.csproj.GenerateResource.Cache
