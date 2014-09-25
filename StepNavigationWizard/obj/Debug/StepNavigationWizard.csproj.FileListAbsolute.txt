@@ -1,0 +1,11 @@
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\bin\Debug\StepNavigationWizard.exe.config
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\bin\Debug\Steps.xml
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\bin\Debug\StepNavigationWizard.exe
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\bin\Debug\StepNavigationWizard.pdb
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.csprojResolveAssemblyReference.cache
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.Home.resources
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.Properties.Resources.resources
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.StepFormBase.resources
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.csproj.GenerateResource.Cache
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.exe
+Z:\TrainingLab\StepNavigationWizard\StepNavigationWizard\obj\Debug\StepNavigationWizard.pdb
